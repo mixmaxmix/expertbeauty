@@ -486,6 +486,9 @@ footer {
     header {
         padding: 2rem 10rem;
     }
+    .menu-close {
+        right: 10rem;
+    }
     .main-text {
         
         font-size: 16rem;
@@ -554,6 +557,9 @@ footer {
 @media (max-width: 425px) {
     header {
         padding: 2rem 1rem;
+    }
+    .menu-close {
+        right: 1rem;
     }
     .menu-btn {
         margin-right: 0;
