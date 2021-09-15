@@ -556,6 +556,7 @@ footer {
 
 @media (max-width: 425px) {
     header {
+        background: rgba(0, 0, 0, 0.1);
         padding: 2rem 1rem;
     }
     .menu-close {
